@@ -1,5 +1,10 @@
 function changeColor(newColor) {
-	var funknamex = document.getElementById('choosewisely');
-	funknamex.style.color = newColor;
+	var example = document.getElementById("choosewisely");
+	example.style.color = newColor;
 }
+
+
+
+
+
 
